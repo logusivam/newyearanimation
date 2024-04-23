@@ -1,3 +1,4 @@
+
 # New Year Animation
 
 This project is a simple animation created using HTML and CSS to celebrate the arrival of the New Year. The animation features interactive elements and vibrant visuals to add excitement and joy to the celebration.
@@ -20,11 +21,14 @@ To use the New Year animation, simply open the `index.html` file in a web browse
 
 No installation is required to run the animation. Simply download or clone the repository to your local machine and open the `index.html` file in a web browser.
 
-## bash
-``git clone https://github.com/logusivam/newyearanimation.git
-cd newyearanimation``
+```bash
+git clone https://github.com/logusivam/newyearanimation.git 
+cd newyearanimation
+```
 
 ## Contributing
-Contributions are welcome! If you'd like to contribute to the project, please fork the repository, make your changes, and submit a pull request. Be sure to follow the project's coding conventions and guidelines.
 
-Feel free to use this formatted README content for your New Year animation project.
+Contributions are welcome! If you'd like to contribute to the project, please fork the repository, make your changes, and submit a pull request. Be sure to follow the project's coding conventions and guidelines.
+```
+
+Feel free to use this corrected README content for your New Year animation project.
