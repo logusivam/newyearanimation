@@ -30,5 +30,6 @@ cd newyearanimation
 
 Contributions are welcome! If you'd like to contribute to the project, please fork the repository, make your changes, and submit a pull request. Be sure to follow the project's coding conventions and guidelines.
 ```
-
 Feel free to use this corrected README content for your New Year animation project.
+```
+follow Loganathan G P
