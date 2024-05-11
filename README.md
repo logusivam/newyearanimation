@@ -3,6 +3,7 @@
 
 This project is a simple animation created using HTML and CSS to celebrate the arrival of the New Year. The animation features interactive elements and vibrant visuals to add excitement and joy to the celebration.
 
+
 ## Year Changes on Hover
 
 - **Interactive Year Change:** The year displayed in the animation changes dynamically when users hover over specific elements with their mouse pointer. A message saying "Happy New Year" accompanies the year change, adding a celebratory touch to the interaction.
