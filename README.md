@@ -33,4 +33,4 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 ```
 Feel free to use this corrected README content for your New Year animation project.
 ```
-follow Loganathan G P
+follow Loganathan G P for more.
