@@ -1,7 +1,7 @@
 
 # New Year Animation
 
-This project is a simple animation created using HTML and CSS to celebrate the arrival of the New Year. The animation features interactive elements and vibrant visuals to add excitement and joy to the celebration.
+- This project is a simple animation created using HTML and CSS to celebrate the arrival of the New Year. The animation features interactive elements and vibrant visuals to add excitement and joy to the celebration.
 
 
 ## Year Changes on Hover
