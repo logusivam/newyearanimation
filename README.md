@@ -23,7 +23,9 @@ To use the New Year animation, simply open the `index.html` file in a web browse
 No installation is required to run the animation. Simply download or clone the repository to your local machine and open the `index.html` file in a web browser.
 
 ```bash
-git clone https://github.com/logusivam/newyearanimation.git 
+git clone https://github.com/logusivam/newyearanimation.git
+```
+```
 cd newyearanimation
 ```
 
