@@ -3,6 +3,7 @@
 
 - This project is a simple animation created using HTML and CSS to celebrate the arrival of the New Year. The animation features interactive elements and vibrant visuals to add excitement and joy to the celebration.
 
+[CLICK HERE TO SUBSCRIBE MY YOUTUBE CHANNEL](https://www.youtube.com/@Logusivamacademy26)
 
 ## Year Changes on Hover
 
